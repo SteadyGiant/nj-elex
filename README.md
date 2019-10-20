@@ -16,6 +16,6 @@ For now, this repo only contains 2017 General Assembly election results.
 # License
 
 This project is licensed under the GNU General Public License, Version 3. See
-`LICENSE`.
+[`LICENSE`](./LICENSE).
 
 I do not own the data, so use it however you like.

@@ -1,0 +1,182 @@
+district_num,district,name,party,tally,district_total_tally,pct,winner,incumbent,major_party
+1,First,Bob Andrzejczak,Democratic,32554,104187,0.3124574083138971,1,1,1
+1,First,R. Bruce Land,Democratic,30938,104187,0.2969468359776172,1,1,1
+1,First,James R. Sauro,Republican,20445,104187,0.19623369518270034,0,0,1
+1,First,Robert G. Campbell,Republican,20250,104187,0.19436206052578536,0,0,1
+2,Second,Vince Mazzeo,Democratic,27601,96635,0.2856211517566099,1,1,1
+2,Second,John Armato,Democratic,25683,96635,0.26577327055414707,1,0,1
+2,Second,Vince Sera,Republican,20814,96635,0.21538779945154446,0,0,1
+2,Second,Brenda Taube,Republican,20611,96635,0.21328711129507943,0,0,1
+2,Second,Heather Gordon,"Independent, Honest, Reliable",1208,96635,0.012500646763594971,0,0,0
+2,Second,Mico Lucide,Green Party,718,96635,0.007430020179024163,0,0,0
+3,Third,John J. Burzichelli,Democratic,31853,105114,0.3030328976159218,1,1,1
+3,Third,Adam Taliaferro,Democratic,30733,105114,0.29237779934166713,1,1,1
+3,Third,Philip J. Donohue,Republican,21758,105114,0.2069943109386,0,0,1
+3,Third,Linwood H. Donelson Iii,Republican,20181,105114,0.1919915520292254,0,0,1
+3,Third,Edward R. Durr,One For All,589,105114,0.005603440074585688,0,0,0
+4,Fourth,Paul D. Moriarty,Democratic,32892,102033,0.32236629325806354,1,1,1
+4,Fourth,Gabriela M. Mosquera,Democratic,31800,102033,0.31166387345270646,1,1,1
+4,Fourth,Patricia Jefferson Kline,Republican,18386,102033,0.18019660305979437,0,0,1
+4,Fourth,Eduardo J. Maldonado,Republican,17761,102033,0.1740711338488528,0,0,1
+4,Fourth,William Mccauley Jr.,"Represent, Not Rule",1194,102033,0.011702096380582753,0,0,0
+5,Fifth,Patricia Egan Jones,Democratic,29282,84632,0.34599205974099634,1,1,1
+5,Fifth,Arthur Barclay,Democratic,27544,84632,0.32545609225824745,1,1,1
+5,Fifth,Teresa L. Gordon,Republican,14181,84632,0.16756073352868892,0,0,1
+5,Fifth,Kevin Ehret,Republican,13625,84632,0.1609911144720673,0,0,1
+6,Sixth,Louis D. Greenwald,Democratic,41767,116025,0.35998276233570353,1,1,1
+6,Sixth,Pamela R. Lampitt,Democratic,40291,116025,0.3472613660848955,1,1,1
+6,Sixth,David C. Moy,Republican,16811,116025,0.14489118724412842,0,0,1
+6,Sixth,Winston Extavour,Republican,16335,116025,0.14078862314156432,0,0,1
+6,Sixth,Monica Sohler,American Solidarity Party,821,116025,0.007076061193708252,0,0,0
+7,Seventh,Herb Conaway,Democratic,39879,120365,0.33131724338470486,1,1,1
+7,Seventh,Carol Murphy,Democratic,38819,120365,0.32251069663108045,1,0,1
+7,Seventh,Octavia Scott,Republican,20941,120365,0.17397914676193246,0,0,1
+7,Seventh,Robert Thibault,Republican,20726,120365,0.17219291322228222,0,0,1
+8,Eighth,Joe Howarth,Republican,28841,114782,0.2512676203585928,1,1,1
+8,Eighth,Ryan Peters,Republican,28671,114782,0.24978655189838128,1,0,1
+8,Eighth,Joanne Schwartz,Democratic,28321,114782,0.24673729330382813,0,0,1
+8,Eighth,Maryann Merlino,Democratic,28196,114782,0.245648272377202,0,0,1
+8,Eighth,Ryan T. Calhoun,No Status Quo,753,114782,0.006560262061995783,0,0,0
+9,Ninth,Brian E. Rumpf,Republican,40158,125936,0.3188762546055139,1,1,1
+9,Ninth,Dianne C. Gove,Republican,39523,125936,0.31383401092618474,1,1,1
+9,Ninth,Jill Dobrowansky,Democratic,23534,125936,0.1868726972430441,0,0,1
+9,Ninth,Ryan Young,Democratic,22721,125936,0.1804170372252573,0,0,1
+10,Tenth,Dave Wolfe,Republican,39265,123752,0.31728780140927015,1,1,1
+10,Tenth,Gregory P. Mcguckin,Republican,37896,123752,0.3062253539336738,1,1,1
+10,Tenth,Michael B. Cooke,Democratic,23417,123752,0.18922522464283406,0,0,1
+10,Tenth,Raymond Baker,Democratic,23174,123752,0.187261620014222,0,0,1
+11,Eleventh,Joann Downey,Democratic,31347,113351,0.2765480675071239,1,1,1
+11,Eleventh,Eric Houghtaling,Democratic,31012,113351,0.2735926458522642,1,1,1
+11,Eleventh,Robert Acerra,Republican,25672,113351,0.22648234245838147,0,0,1
+11,Eleventh,Michael Whelan,Republican,25320,113351,0.22337694418223042,0,0,1
+12,Twelfth,Ronald S. Dancer,Republican,30348,103750,0.292510843373494,1,1,1
+12,Twelfth,Robert D. Clifton,Republican,29610,103750,0.2853975903614458,1,1,1
+12,Twelfth,Gene Davis,Democratic,21441,103750,0.20666024096385543,0,0,1
+12,Twelfth,Nirav Patel,Democratic,20397,103750,0.19659759036144578,0,0,1
+12,Twelfth,Anthony J. Storrow,Libertarian Party,1016,103750,0.00979277108433735,0,0,0
+12,Twelfth,Daniel A. Krause,Libertarian Party,938,103750,0.009040963855421687,0,0,0
+13,Thirteenth,Amy Handlin,Republican,35990,124514,0.28904380230335547,1,1,1
+13,Thirteenth,Serena Dimaso,Republican,34214,124514,0.2747803459851904,1,0,1
+13,Thirteenth,Tom Giaimo,Democratic,27212,124514,0.2185457057037763,0,0,1
+13,Thirteenth,Mariel Didato,Democratic,26640,124514,0.2139518447724754,0,0,1
+13,Thirteenth,Eveline H. Brownstein,Libertarian Party,458,124514,0.003678301235202467,0,0,0
+14,Fourteenth,Wayne P. Deangelo,Democratic,35596,118515,0.3003501666455723,1,1,1
+14,Fourteenth,Daniel R. Benson,Democratic,35088,118515,0.2960637893937476,1,1,1
+14,Fourteenth,Kristian Stout,Republican,24725,118515,0.20862338100662364,0,0,1
+14,Fourteenth,Steven Uccio,Republican,23106,118515,0.19496266295405645,0,0,1
+15,Fifteenth,Reed Gusciora,Democratic,35481,95923,0.3698904329514298,1,1,1
+15,Fifteenth,Elizabeth Maher Muoio,Democratic,34937,95923,0.3642192174973677,1,1,1
+15,Fifteenth,Emily Rich,Republican,13077,95923,0.13632809649406294,0,0,1
+15,Fifteenth,Rimma Yakobovich,Republican,12428,95923,0.1295622530571396,0,0,1
+16,Sixteenth,Andrew Zwicker,Democratic,34233,125662,0.27242125702280723,1,1,1
+16,Sixteenth,Roy Freiman,Democratic,32714,125662,0.26033327497572856,1,0,1
+16,Sixteenth,Donna M. Simon,Republican,29674,125662,0.23614139517117347,0,0,1
+16,Sixteenth,Mark Caliguire,Republican,29041,125662,0.23110407283029077,0,0,1
+17,Seventeenth,Joseph V. Egan,Democratic,29149,80897,0.3603223852553247,1,1,1
+17,Seventeenth,Joe Danielsen,Democratic,28425,80897,0.3513727332286735,1,1,1
+17,Seventeenth,Robert A. Quinn,Republican,11317,80897,0.1398939392066455,0,0,1
+17,Seventeenth,Nadine Wilkins,Republican,11131,80897,0.13759471921084837,0,0,1
+17,Seventeenth,Michael Habib,It's Our Time,875,80897,0.01081622309850798,0,0,0
+18,Eighteenth,Nancy J. Pinkin,Democratic,30301,94744,0.31981972473190917,1,1,1
+18,Eighteenth,Robert J. Karabinchak,Democratic,29376,94744,0.3100565735033353,1,1,1
+18,Eighteenth,April Bengivenga,Republican,17559,94744,0.18533099721354387,0,0,1
+18,Eighteenth,"Zhiyu ""Jimmy"" Hu",Republican,16484,94744,0.17398463227222832,0,0,1
+18,Eighteenth,Sean A. Stratton,Green Party,1024,94744,0.010808072278983366,0,0,0
+19,Nineteenth,Craig J. Coughlin,Democratic,25708,72171,0.3562095578556484,1,1,1
+19,Nineteenth,Yvonne Lopez,Democratic,24830,72171,0.3440440065954469,1,0,1
+19,Nineteenth,Deepak Malhotra,Republican,10709,72171,0.14838369982402905,0,0,1
+19,Nineteenth,Amarjit K. Riar,Republican,9436,72171,0.13074503609483035,0,0,1
+19,Nineteenth,William Cruz,Quality Of Life,1488,72171,0.020617699630045307,0,0,0
+20,Twentieth,Annette Quijano,Democratic,24221,53372,0.4538147343176197,1,1,1
+20,Twentieth,Jamel C. Holley,Democratic,23790,53372,0.44573933897924006,1,1,1
+20,Twentieth,Joseph G. Aubourg,Republican,5361,53372,0.10044592670314022,0,0,1
+21,Twenty-First,Jon Bramnick,Republican,35283,133523,0.26424660919841525,1,1,1
+21,Twenty-First,Nancy F. Munoz,Republican,34273,133523,0.2566823693296286,1,1,1
+21,Twenty-First,Lacey Rzeszowski,Democratic,32719,133523,0.2450439250166638,0,0,1
+21,Twenty-First,Bruce H. Bergen,Democratic,31248,133523,0.23402709645529235,0,0,1
+22,Twenty-Second,James J. Kennedy,Democratic,27763,85120,0.32616306390977445,1,1,1
+22,Twenty-Second,"Gerald ""Jerry"" Green",Democratic,27284,85120,0.3205357142857143,1,1,1
+22,Twenty-Second,Richard S. Fortunato,Republican,14631,85120,0.17188674812030075,0,0,1
+22,Twenty-Second,John Quattrocchi,Republican,13682,85120,0.16073778195488722,0,0,1
+22,Twenty-Second,Onel Martinez,Remember Those Forgotten,942,85120,0.01106672932330827,0,0,0
+22,Twenty-Second,Sumantha Prasad,Pushing Us Forward,818,85120,0.009609962406015037,0,0,0
+23,Twenty-Third,John Dimaio,Republican,33880,115366,0.29367404607943415,1,1,1
+23,Twenty-Third,Erik Peterson,Republican,32233,115366,0.2793977428358442,1,1,1
+23,Twenty-Third,Laura Shaw,Democratic,24386,115366,0.21137943588232236,0,0,1
+23,Twenty-Third,Charles Boddy,Democratic,21690,115366,0.1880103323336165,0,0,1
+23,Twenty-Third,Tyler J. Gran,End The Corruption,1921,115366,0.016651353084964373,0,0,0
+23,Twenty-Third,Michael Estrada,We Define Tomorrow,1256,115366,0.010887089783818455,0,0,0
+24,Twenty-Fourth,F. Parker Space,Republican,33873,110435,0.3067234119617875,1,1,1
+24,Twenty-Fourth,Harold J. Wirths,Republican,30820,110435,0.279078190790963,1,0,1
+24,Twenty-Fourth,Kate Matteson,Democratic,22456,110435,0.20334133200525195,0,0,1
+24,Twenty-Fourth,Gina Trish,Democratic,20200,110435,0.1829130257617603,0,0,1
+24,Twenty-Fourth,Aaron Hyndman,Green Party,1568,110435,0.014198397247249514,0,0,0
+24,Twenty-Fourth,Kenny Collins,Green Party,1518,110435,0.01374564223298773,0,0,0
+25,Twenty-Fifth,Michael Patrick Carroll,Republican,30323,115835,0.2617775283808866,1,1,1
+25,Twenty-Fifth,Anthony M. Bucco,Republican,30278,115835,0.26138904476194585,1,1,1
+25,Twenty-Fifth,Thomas Moran,Democratic,27848,115835,0.2404109293391462,0,0,1
+25,Twenty-Fifth,Richard Corcoran,Democratic,27386,115835,0.23642249751802133,0,0,1
+26,Twenty-Sixth,Jay Webber,Republican,31810,112670,0.2823289251797284,1,1,1
+26,Twenty-Sixth,Bettylou Decroce,Republican,31766,112670,0.28193840418922517,1,1,1
+26,Twenty-Sixth,Joseph R. Raich,Democratic,24732,112670,0.2195082985710482,0,0,1
+26,Twenty-Sixth,E. William Edge,Democratic,24362,112670,0.21622437205999823,0,0,1
+27,Twenty-Seventh,John F. Mckeon,Democratic,39742,119129,0.33360474779440774,1,1,1
+27,Twenty-Seventh,Mila M. Jasey,Democratic,38311,119129,0.3215925593264444,1,1,1
+27,Twenty-Seventh,Ronald Derose,Republican,20625,119129,0.17313164720597,0,0,1
+27,Twenty-Seventh,Angelo Tedesco Jr.,Republican,20451,119129,0.1716710456731778,0,0,1
+28,Twenty-Eighth,Ralph R. Caputo,Democratic,30084,70450,0.4270262597586941,1,1,1
+28,Twenty-Eighth,Cleopatra G. Tucker,Democratic,29643,70450,0.4207665010645848,1,1,1
+28,Twenty-Eighth,Veronica Branch,Republican,4839,70450,0.06868701206529454,0,0,1
+28,Twenty-Eighth,James Boydston,Republican,4672,70450,0.06631653655074521,0,0,1
+28,Twenty-Eighth,Joanne Miller,Time For Change,782,70450,0.011100070972320795,0,0,0
+28,Twenty-Eighth,Scott Thomas Nicastro,A New Hope,430,70450,0.006103619588360539,0,0,0
+29,Twenty-Ninth,Eliana Pintor Marin,Democratic,19088,42592,0.44815927873779116,1,1,1
+29,Twenty-Ninth,Shanique Speight,Democratic,18308,42592,0.4298459804658152,1,0,1
+29,Twenty-Ninth,Charles G. Hood,Republican,2622,42592,0.06156085649887303,0,0,1
+29,Twenty-Ninth,Jeannette Veras,Republican,2574,42592,0.06043388429752066,0,0,1
+30,Thirtieth,Sean T. Kean,Republican,33672,101249,0.3325662475678772,1,1,1
+30,Thirtieth,Edward H. Thomson Iii,Republican,30680,101249,0.3030153384230955,1,0,1
+30,Thirtieth,Kevin Scott,Democratic,18737,101249,0.18505861786289246,0,0,1
+30,Thirtieth,Eliot Arlo Colon,Democratic,18160,101249,0.1793597961461348,0,0,1
+31,Thirty-First,Angela V. Mcknight,Democratic,23616,56199,0.4202210003736721,1,1,1
+31,Thirty-First,Nicholas Chiaravalloti,Democratic,22823,56199,0.4061104290111924,1,1,1
+31,Thirty-First,Michael J. Alonso,Republican,4994,56199,0.08886279115286749,0,0,1
+31,Thirty-First,Lauren Digiaro,Republican,4766,56199,0.08480577946226801,0,0,1
+32,Thirty-Second,Vincent Prieto,Democratic,23633,57642,0.4099961833385379,1,1,1
+32,Thirty-Second,Angelica M. Jimenez,Democratic,23063,57642,0.4001075604593873,1,1,1
+32,Thirty-Second,Ann M. Corletta,Republican,5512,57642,0.09562471808750564,0,0,1
+32,Thirty-Second,Bartholomew J. Talamini,Republican,5434,57642,0.09427153811456923,0,0,1
+33,Thirty-Third,Annette Chaparro,Democratic,32988,70682,0.4667100534789621,1,1,1
+33,Thirty-Third,Raj Mukherji,Democratic,31997,70682,0.4526895107665318,1,1,1
+33,Thirty-Third,Holly Lucyk,Republican,5697,70682,0.0806004357545061,0,0,1
+34,Thirty-Fourth,Sheila Oliver,Democratic,34340,79838,0.4301209950149052,1,1,1
+34,Thirty-Fourth,Thomas P. Giblin,Democratic,32751,79838,0.4102181918384729,1,1,1
+34,Thirty-Fourth,Nicholas G. Surgent,Republican,6637,79838,0.08313083995090058,0,0,1
+34,Thirty-Fourth,Tafari Anderson,Republican,6110,79838,0.07652997319572133,0,0,1
+35,Thirty-Fifth,Benjie E. Wimberly,Democratic,21406,53482,0.4002468120115179,1,1,1
+35,Thirty-Fifth,Shavonda E. Sumter,Democratic,21275,53482,0.3977973897759994,1,1,1
+35,Thirty-Fifth,Ibrahim Mahmoud,Republican,5435,53482,0.10162297595452675,0,0,1
+35,Thirty-Fifth,Nihad Younes,Republican,5366,53482,0.10033282225795595,0,0,1
+36,Thirty-Sixth,Gary Schaer,Democratic,22527,70563,0.3192466306704647,1,1,1
+36,Thirty-Sixth,Marlene Caride,Democratic,22419,70563,0.3177160834998512,1,1,1
+36,Thirty-Sixth,Paul Passamano Jr.,Republican,13245,70563,0.1877046043960716,0,0,1
+36,Thirty-Sixth,Marc Marsi,Republican,12372,70563,0.17533268143361253,0,0,1
+37,Thirty-Seventh,Valerie Vainieri Huttle,Democratic,31855,85231,0.3737489880442562,1,1,1
+37,Thirty-Seventh,Gordon M. Johnson,Democratic,31798,85231,0.37308021729183044,1,1,1
+37,Thirty-Seventh,Gino P. Tessaro,Republican,10610,85231,0.12448522251293544,0,0,1
+37,Thirty-Seventh,Angela Hendricks,Republican,10576,85231,0.12408630662552357,0,0,1
+37,Thirty-Seventh,Claudio I. Belusic,Libertarian Party,392,85231,0.004599265525454354,0,0,0
+38,Thirty-Eighth,Joseph A. Lagana,Democratic,30800,105126,0.2929817552270609,1,1,1
+38,Thirty-Eighth,Tim Eustace,Democratic,30727,105126,0.2922873504175941,1,1,1
+38,Thirty-Eighth,William Leonard,Republican,21541,105126,0.20490649316058826,0,0,1
+38,Thirty-Eighth,Christopher B. Wolf,Republican,21525,105126,0.20475429484618457,0,0,1
+38,Thirty-Eighth,Dev Goswami,Independent- Nj Awakens,533,105126,0.00507010634857219,0,0,0
+39,Thirty-Ninth,Holly Schepisi,Republican,34158,124885,0.27351563438363297,1,1,1
+39,Thirty-Ninth,Robert Auth,Republican,32739,124885,0.26215318092645234,1,1,1
+39,Thirty-Ninth,Jannie Chung,Democratic,29126,124885,0.2332225647595788,0,0,1
+39,Thirty-Ninth,Annie Hausmann,Democratic,28862,124885,0.2311086199303359,0,0,1
+40,Fortieth,Kevin J. Rooney,Republican,31170,116357,0.26788246517184183,1,1,1
+40,Fortieth,Christopher P. Dephillips,Republican,30610,116357,0.26306969069329733,1,0,1
+40,Fortieth,Christine Ordway,Democratic,27092,116357,0.23283515387986972,0,0,1
+40,Fortieth,Paul Vagianos,Democratic,26737,116357,0.22978419863007812,0,0,1
+40,Fortieth,Anthony J. Pellechia,You Tell Me,748,116357,0.006428491624912983,0,0,0
